@@ -1,0 +1,9 @@
+{
+  "name": "Tamoh2030",
+  "short_name": "Tamoh2030",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Tamoh2030 Educational Repository"
+}
